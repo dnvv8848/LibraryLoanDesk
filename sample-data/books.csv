@@ -1,0 +1,21 @@
+bookId,title,category,copies
+B001,Algorithms in Moon City,CS,1
+B002,Learning Java Basics,CS,4
+B003,Small Data Structures,CS,3
+B004,The Friendly Computer,CS,0
+B005,Notes on Coding,CS,2
+B006,A Simple Network,CS,5
+B007,Numbers on an Island,Math,2
+B008,Geometry Garden,Math,3
+B009,Algebra Adventure,Math,1
+B010,Counting the Stars,Math,0
+B011,Puzzles at Noon,Math,4
+B012,The Shape Notebook,Math,2
+B013,Colours of Autumn,Art,3
+B014,Drawing a Quiet Town,Art,2
+B015,Paper and Paint,Art,1
+B016,The Imaginary Museum,Art,0
+B017,Sketching Clouds,Art,4
+B018,Patterns by the Sea,Art,2
+B019,Recursion Stories,CS,3
+B020,The Last Equation,Math,1

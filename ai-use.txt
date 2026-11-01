@@ -1,0 +1,9 @@
+Tool: OpenAI Codex
+Task: Explain the assignment and generate an initial Java console practice implementation,
+sample CSV files, a custom test runner, README and report draft.
+Suggestions accepted in this generated version: custom linked nodes; snapshots for undo;
+temporary catalogue validation before replacement; clearing history on queue changes.
+Suggestions rejected: none recorded yet.
+Verification: see SelfTest.java and the test result recorded in report-draft.md.
+Group review: not performed yet. Add the group's own tests, accepted/rejected changes,
+and explanations before submission. This generated code is not evidence of a member's work.
