@@ -15,6 +15,7 @@ public class UndoStack {
         Action action;
         Node next;
         Node(Action action, Node next) { this.action = action; this.next = next; }
+        
     }
     private Node top;
 
