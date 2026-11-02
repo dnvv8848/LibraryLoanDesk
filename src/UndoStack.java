@@ -10,8 +10,7 @@ public class UndoStack {
             this.position = position;
         }
     }
-
-    private static class Node {
+  private static class Node {
         Action action;
         Node next;
         Node(Action action, Node next) { this.action = action; this.next = next; }
